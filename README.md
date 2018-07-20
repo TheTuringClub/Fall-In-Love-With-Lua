@@ -13,7 +13,7 @@ For workshop content check [Click](https://github.com/TheTuringClub/Fall-In-Love
 
 [![DemoGame](https://github.com/TheTuringClub/Fall-In-Love-With-Lua/blob/master/demo-game.png)]
 
-For source code of Space war game [Click](https://github.com/TheTuringClub/Fall-In-Love-With-Lua/blob/master/space-war-demo)
+For source code of Space war game [Click](https://github.com/TheTuringClub/Fall-In-Love-With-Lua/tree/master/space-war-demo)
 
 # Speaker
 
