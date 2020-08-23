@@ -12,7 +12,7 @@ Place: Alpha College Of engineering and technology.</br>
 
 # Workshop Demo Game
 
-[![DemoGame](https://github.com/TheTuringClub/Fall-In-Love-With-Lua/blob/master/demo-game.png)]
+![DemoGame](https://github.com/TheTuringClub/Fall-In-Love-With-Lua/blob/master/demo-game.png)
 
 For source code of Space war game [Click](https://github.com/TheTuringClub/Fall-In-Love-With-Lua/tree/master/space-war-demo)
 
