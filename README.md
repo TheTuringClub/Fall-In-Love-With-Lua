@@ -7,8 +7,8 @@ Place: Alpha College Of engineering and technology.</br>
 
 # Workshop Content
 
-For workshop content check [Click](https://github.com/TheTuringClub/Fall-In-Love-With-Lua/tree/master/content)
-[For More details](https://medium.com/@bhattsameer/fall-in-love-with-lua-gujarats-first-lua-love2d-workshop-7d480f0333cd)
+[Slides](https://github.com/TheTuringClub/Fall-In-Love-With-Lua/tree/master/content)
+[Blog](https://medium.com/@bhattsameer/fall-in-love-with-lua-gujarats-first-lua-love2d-workshop-7d480f0333cd)
 
 # Workshop Demo Game
 
